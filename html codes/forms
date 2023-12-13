@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>FORM</title>
+</head>
+</div>
+<body>
+  <h1>PLEASE SUBMMIT THE FORM</h1>
+  <div>
+    NAME:<input style="border-radius: 20 px;" type="text" placeholder="ENTER THE NAME"  name="NAME"/>
+  </div>
+  <div>
+    EMAIL:<input style="border-radius: 20px;"   type="email"    placeholder="ENTER EMAIL" name="email"/>
+</div>
+<div>
+    PHONE NUMBER:<input style="border-radius: 20px;"    type="number"   placeholder="ENTER THE NUMBER"  name="number"/>
+</div>
+<div>
+    DATE:<input style="border-radius: 20px;"    type="date" placeholder="ENTER THE DATE" name="date"/>
+</div>
+<div>
+    ARE YOU ELIGIBLE:<input style="border-radius: 20px;"    type="checkbox" name="eligibilty"/>
+</div>
+<div>
+GENDER:<input style="border-radius: 20px;" checked  type="radio"    name="GENDER"/><input   style="border-radius: 20px;"    type="radio"    name="GENDER"/>
+</div>
+<div>
+SUBMIT NOW:<input  style="border-radius: 20px;"   type="submit"    name="submit"/>
+</div>
+
+    
+</body>
+</html>
